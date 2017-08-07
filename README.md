@@ -25,7 +25,7 @@ One last thing to remember: when you require something in your manifest file, th
 
 Now that we have our manifest file, we need to include it in our application. The only thing we need to do is use the `javascript_include_tag` in our application layout file. This is just a Rails helper that generates a script tag instructing the browser to load that JS file.
 
-**File: app/views/layouts/application.html.slim**
+**File: app/views/layouts/application.html.erb**
 ```erb
 <%= javascript_include_tag "application" %>
 ```
