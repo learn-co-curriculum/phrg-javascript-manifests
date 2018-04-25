@@ -48,3 +48,4 @@ In production mode, all the assets will be combined into a single file.
 - [Ruby on rails guides - Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-manifests'>Javascript Manifests</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG JavaScript Manifests</p>
